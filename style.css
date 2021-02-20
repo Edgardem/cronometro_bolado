@@ -1,0 +1,14 @@
+.contaner,.contant {
+    display: flex;
+}
+.contaner {
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+.contant button + button {
+    margin-left: 10px;
+
+}
